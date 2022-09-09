@@ -3,9 +3,7 @@
 # Hi, I am Sourav Kumar Biswas
 ### I am a MERN Stack Web Developer
 
-I am currently studying in Babugonj Degree College Of Business. I'm very much passionate about programming that's why I am learning web development in MERN stack. I've worked on some practice projects to level up my skills. You can have a look at my github profile. 
-
-I really love to learn about programming and I'm trying to learn new things everyday. Because programming is fun. If I think of doing something and if I don't know about the project or a specific part then I try to learn about it. Because I love to learn new things about programming. 
+I am a web developer from Bangladesh. I studied a BSC in Computer Science at Faridpur engineering college. I am a self-motivated MERN stack, web developer. I always keep myself up to date with the latest technology.I can adopt any technology rapidly making myself flexible upon any tech stack.You can have a look at my github profile. 
 
 Skills: <br>
 🔰 HTML<br>
