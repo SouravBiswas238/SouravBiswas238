@@ -21,18 +21,17 @@ Skills: <br>
 - 🌱 I’m currently learning TypeScript
 - 💬 Ask me about Web Development
 
-[![Top Langs](https://github.com/SouravBiswas238)](https://github.com/SouravBiswas238)
+[![Top Langs]<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbiswas238&show_icons=true&locale=en&layout=compact" alt="souravbiswas238" /></p>
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBiswas238?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourav-kumar-biswas238/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sourav.souravbiswas.77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/sourav_biswas427/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19045473/sourav-biswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sourav-portfolio.web.app/)  
 
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&" alt="souravbiswas238" /></p>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=dracula)
 
 ![Profile views](https://gpvc.arturio.dev/SouravBiswas238)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbiswas238&show_icons=true&locale=en&layout=compact" alt="souravbiswas238" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&locale=en" alt="souravbiswas238" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&" alt="souravbiswas238" /></p>
 
