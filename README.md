@@ -13,17 +13,19 @@ Skills: <br>
 🔰 REACT<br>
 🔰 EXPRESS<br>
 🔰 MONGODB<br>
-🔰 JIRA APPLICATIONE<br>
-
-- 🔭 I’m currently working on a Hireing Agency web-application
-- 🌱 I’m currently learning Full Stack Web Development 
-- 💬 Ask me about Web Development 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanvirgithub21&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+🔰 Mongoose<br>
+🔰 Socket.io<br>
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://https://github.com/tanvirgithub21)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/tanvirahmed6174/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/tanvirahmed6147/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](instagram link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18955173/tanvir-ahmed)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://tanvir-ahmed00.netlify.app)  
+- 🔭 I’m currently working on a Hireing Agency website
+- 🌱 I’m currently learning TypeScript
+- 💬 Ask me about Web Development
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanvirgithub21&show_icons=true&theme=dracula)
+[![Top Langs](https://github.com/SouravBiswas238?tab=repositories)](https://github.com/anuraghazra/github-readme-stats)
 
-![Profile views](https://gpvc.arturio.dev/tanvirgithub21)  
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SouravBiswas238?tab=repositories)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sourav-kumar-biswas238/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sourav.souravbiswas.77)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](instagram link)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19045473/sourav-biswas)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sourav-portfolio.web.app/)  
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=dracula)
+
+![Profile views](https://gpvc.arturio.dev/SouravBiswas238)  
