@@ -29,3 +29,10 @@ Skills: <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=dracula)
 
 ![Profile views](https://gpvc.arturio.dev/SouravBiswas238)  
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbiswas238&show_icons=true&locale=en&layout=compact" alt="souravbiswas238" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&locale=en" alt="souravbiswas238" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&" alt="souravbiswas238" /></p>
+
