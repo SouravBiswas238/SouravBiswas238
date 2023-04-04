@@ -82,9 +82,6 @@
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&hide_border=true&theme=radical" />
 </p>
 
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&hide_border=true&theme=radical" />
-
 <p><img align="left"  /></p>
 
 ## 🔝 Most used languages
