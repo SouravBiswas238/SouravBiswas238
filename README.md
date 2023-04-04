@@ -1,4 +1,4 @@
-![Alt text](https://raw.githubusercontent.com/ "Optional title")
+![Alt text](https://github.com/SouravBiswas238/SouravBiswas238/blob/main/hi%20there!%20(2).png "Optional title")
 
 ## Hi, I am Sourav Kumar Biswas
 ### I am a MERN Stack Web Developer. 😃
@@ -78,10 +78,12 @@
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=souravbiswas238&show_icons=true&locale=en&layout=compact" alt="souravbiswas238" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&locale=en" alt="souravbiswas238" />
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&hide_border=true&theme=radical" />
 </p>
 
+ <img width="48%" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&hide_border=true&theme=radical" />
 
 <p><img align="left"  /></p>
 
