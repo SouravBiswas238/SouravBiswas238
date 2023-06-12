@@ -16,17 +16,17 @@
 </p>
 
 <p align="center">
-<a href="https://linkedin.com/in/sourav-kumar-biswas238/" target="blank">
+<a href="https://www.linkedin.com/in/sourav03biswas/" target="blank">
 		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
- <a href="https://stackoverflow.com/users/19045473/sourav-biswas" target="blank">
+ <a href="https://stackoverflow.com/users/19045473/sourav-biswas" target="blank" style="margin: 5px 0px;">
    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="19045473/sourav-biswas" height="30" width="40" />
   </a>
 <a href="https://fb.com/sourav.souravbiswas.77">
 		<img src="https://img.shields.io/badge/facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
 	</a>
   <a href="https://instagram.com/sourav_biswas427" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sourav_biswas427" height="30" width="40" /></a>
-  <a href="suravbiswas427@gmail.com">
+  <a href="souravbiswas427@gmail.com" target="blank">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
 </p>
