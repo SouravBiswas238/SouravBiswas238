@@ -93,7 +93,7 @@ https://sourav-poartfolio.netlify.app/
 # 📊 GitHub Analytics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=radical"/>
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=radical&hide_border=true"/>
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravBiswas238&theme=radical"/>
 </p>
 
