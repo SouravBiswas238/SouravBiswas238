@@ -1,38 +1,37 @@
-![Alt text](https://github.com/SouravBiswas238/SouravBiswas238/blob/main/hi%20there!%20(2).png "Optional title")
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=souravbiswas238&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
-# Hi, I'm Sourav Kumar Biswas 👋
-### Senior Full-Stack Engineer | AI & Automation Solutions
+<h1 align="center">Hi 👋, I'm Sourav Kumar Biswas</h1>
 
-I am a **Full-Stack Engineer from Bangladesh** with **4+ years of experience** building scalable web applications, SaaS platforms, and AI-powered business solutions.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Senior%20Full%20Stack%20Engineer;AI%20%26%20Automation%20Developer;React%20%7C%20Next.js%20%7C%20Node.js;Building%20Scalable%20SaaS%20Platforms&center=true&width=500&height=45">
+</p>
 
-Currently working as a **Senior Frontend Engineer (Team Lead)** where I build high-performance systems using **React.js, Next.js, and modern backend technologies**, while integrating **AI tools and automation workflows** to improve business processes.
+<p align="center">
+Senior Full-Stack Engineer specializing in scalable web applications, AI integrations, and business automation solutions.
+</p>
+
+---
+
+# 🚀 About Me
+
+I’m a **Full-Stack Engineer from Bangladesh** with **4+ years of experience** building modern web applications, SaaS platforms, and AI-powered systems.
+
+Currently working as a **Senior Frontend Engineer (Team Lead)** where I build high-performance applications using **React.js, Next.js, and modern backend technologies**, while integrating **AI tools and automation workflows** to improve business efficiency.
 
 I enjoy building **scalable architectures, intelligent products, and automation systems** that solve real business problems.
 
 ---
 
-# 📖 About Me
+# 🌐 Portfolio
 
-- 💻 Senior Full-Stack Engineer (React / Next.js / Node.js)
-- 🤖 Working with **AI integrations & automation systems**
-- 🚀 Building **SaaS platforms and scalable web applications**
-- 🎓 BSc in Computer Science & Engineering – Faridpur Engineering College
-- 🏆 Hackathon Winner (College Event)
-- 🌱 Always learning new technologies in **AI, backend architecture, and system design**
+🔗 **Portfolio Website**  
+https://sourav-poartfolio.netlify.app/
 
 ---
 
-# 🔭 Current Focus
-
-- AI-powered applications  
-- Business automation systems  
-- SaaS product development  
-- Scalable frontend architectures  
-- API & backend systems  
-
----
-
-# ⚡ Tech Stack
+# 💻 Tech Stack
 
 ## 🚀 Languages
 
@@ -46,7 +45,7 @@ I enjoy building **scalable architectures, intelligent products, and automation 
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![NextJS](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Nodejs](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind--CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
 ![Material UI](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white)
@@ -71,7 +70,7 @@ I enjoy building **scalable architectures, intelligent products, and automation 
 
 ---
 
-# 📱 Reach Me
+# 📱 Connect With Me
 
 <p align="center">
 
@@ -91,17 +90,28 @@ I enjoy building **scalable architectures, intelligent products, and automation 
 
 ---
 
-# 📊 GitHub Stats
+# 📊 GitHub Analytics
 
 <p align="center">
- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&hide_border=true&theme=radical" />
- <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&hide_border=true&theme=radical" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=souravbiswas238&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=souravbiswas238&theme=radical&hide_border=true"/>
+
 </p>
 
 ---
 
-# 🔝 Most Used Languages
+# 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=souravbiswas238&layout=compact&hide_border=true&theme=radical"/>
+<img src="https://github-profile-trophy.vercel.app/?username=souravbiswas238&theme=radical&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=souravbiswas238&theme=react-dark"/>
 </p>
