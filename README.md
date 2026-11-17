@@ -28,6 +28,6 @@ Full Stack Developer from **Dhaka, Bangladesh**, specializing in **JavaScript an
 
 <div align="center">
 
-<img width="100%" alt="Contribution chart" src="https://ghchart.rshah.org/7928ca/SouravBiswas238" />
+<img alt="Contribution streak" src="https://streak-stats.demolab.com/?user=SouravBiswas238&theme=tokyonight&hide_border=true&ring=7928CA&fire=7928CA&currStreakLabel=0E75B6" />
 
 </div>
