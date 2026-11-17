@@ -26,17 +26,11 @@ Full Stack Developer from **Dhaka, Bangladesh**, specializing in **JavaScript an
   <img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,nestjs,django,tailwind,mongodb,docker,figma,git&perline=13" />
 </p>
 
-## GitHub Stats
-
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=SouravBiswas238&theme=tokyonight&hide_border=true" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouravBiswas238/SouravBiswas238/output/snake-dark.svg" />
+  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/SouravBiswas238/SouravBiswas238/output/snake.svg" />
+</picture>
 
 </div>
-
-## Contribution Activity
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SouravBiswas238&theme=tokyo-night&hide_border=true&area=true&radius=8" />
-</p>
