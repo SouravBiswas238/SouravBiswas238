@@ -28,9 +28,6 @@ Full Stack Developer from **Dhaka, Bangladesh**, specializing in **JavaScript an
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SouravBiswas238/SouravBiswas238/output/snake-dark.svg" />
-  <img width="100%" alt="contribution snake" src="https://raw.githubusercontent.com/SouravBiswas238/SouravBiswas238/output/snake.svg" />
-</picture>
+<img width="100%" alt="Contribution chart" src="https://ghchart.rshah.org/7928ca/SouravBiswas238" />
 
 </div>
