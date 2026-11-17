@@ -28,6 +28,12 @@ Full Stack Developer from **Dhaka, Bangladesh**, specializing in **JavaScript an
 
 ## GitHub Stats
 
+<!-- CONTRIB:START -->
+<p align="center">
+  <img src="https://img.shields.io/badge/Private%20repo%20contributions-853-7928ca?style=for-the-badge&logo=github" />
+</p>
+<!-- CONTRIB:END -->
+
 <div align="center">
 
 <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=SouravBiswas238&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
